@@ -1,0 +1,4 @@
+This is my test in binoy1 file
+
+This is my test data to check the input
+I am using the vi command as well.
