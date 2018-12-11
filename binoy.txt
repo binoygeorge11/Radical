@@ -1,3 +1,7 @@
 I ave uploaded it from server directly!!!
 I am adding a 2nd line on binoy.txt file
+<<<<<<< HEAD
 This line from the server
+=======
+I am adding 3rd line for this project.
+>>>>>>> 03996eb3bd7d37641be8becd59bca82ba060b7ae
