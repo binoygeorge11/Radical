@@ -1,8 +1,0 @@
-I have uploaded it from server directly!!!
-I am adding a 2nd line on binoy.txt file
-<<<<<<< HEAD
-This line from the server- cleaning
-=======
-This line from the server
-=======
->>>>>>> 966fcae12f9500234f8f3d04b2f2c2c2c440ef17
